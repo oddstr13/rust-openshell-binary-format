@@ -1,0 +1,8 @@
+[package]
+name = "osh_binfmt"
+version = "0.1.0"
+authors = ["Odd Stråbø <oddstr13@openshell.no>"]
+edition = "2018"
+
+[dependencies]
+nom = "5"
